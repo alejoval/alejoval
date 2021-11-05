@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Skills:
-![Html](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=appveyor)<br>
+![Html](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=101010)<br>
 
 
 
