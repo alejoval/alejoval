@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Skills:
-![Android](https://img.shields.io/badge/Androidppp-3DDC84)<br>
+![Html](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=appveyor)<br>
 
 
 
