@@ -6,7 +6,7 @@
 ![JQUERY](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![php](https://img.shields.io/badge/PHP-sucess?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)
-![net](https://img.shields.io/badge/.Net-green?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010)
+![net](https://img.shields.io/badge/.Net-informational?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010)
 
 
 
