@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-(https://img.shields.io/badge/Android-3DDC84)
+##Skills:
+![Android](https://img.shields.io/badge/Android-3DDC84)<br>
 
 
 
