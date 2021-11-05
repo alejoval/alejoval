@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/android
+(https://img.shields.io/badge/Android-3DDC84)
 
 
 
