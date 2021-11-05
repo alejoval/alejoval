@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Freelance full-stack iOS & Android engineer
+
 ## Skills:
 ![Html](https://img.shields.io/badge/Html5-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
