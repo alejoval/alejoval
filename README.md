@@ -2,9 +2,9 @@
 
 ## Skills:
 ![Html](https://img.shields.io/badge/Html5-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)<br>
-![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)<br>
-![JQUERY](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)<br>
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
+![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![JQUERY](https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 
 
 
