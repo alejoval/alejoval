@@ -7,6 +7,8 @@ Freelance full-stack iOS & Android engineer
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<hola mensaje>&color=<red>
 
+https://img.shields.io/badge/android
+
 
 Here are some ideas to get you started:
 
