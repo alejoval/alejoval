@@ -1,4 +1,8 @@
-### Hi there 👋
+###  💬  Hello, my name is Alejandro Ruiz Valencia
+
+I am a Systems Technologist with extensive experience in companies in the technological, industrial, transport and services sectors, leading activities in the development of web and desktop applications; updating and optimization of corporate software and platforms;
+
+
 
 Freelance full-stack iOS & Android engineer
 
