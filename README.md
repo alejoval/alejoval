@@ -9,7 +9,11 @@ Freelance full-stack iOS & Android engineer
 ![Javascript](https://img.shields.io/badge/Javascript-FFCA26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![php](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)
 ![net](https://img.shields.io/badge/.Net-informational?style=for-the-badge&logo=.Net&logoColor=white&labelColor=101010)
-![sql](https://img.shields.io/badge/Sql-sucess?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![sql](https://img.shields.io/badge/sql-sucess?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![sqlserver](https://img.shields.io/badge/sqlserver-informational?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![oracle](https://img.shields.io/badge/oracle-blue?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+
+
 
 
 
